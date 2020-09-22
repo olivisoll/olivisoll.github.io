@@ -3,7 +3,7 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -14,7 +14,7 @@ sidebar:
     # Sidebar links
     email: olivia.luis.lagar@gmail.com
     phone: +34 655 19 30 54
-    linkedin: https://es.linkedin.com/in/olivialuis
+    linkedin: olivialuis
     github: olivisoll
     telegram: # add your nickname without '@' sign
     
@@ -28,25 +28,16 @@ sidebar:
       - idiom: Spanish
         level: Native
 
-    interests:
-      - item: Dancing
-        link:
-
-      - item: Hiking
-        link:
-
-      - item: Reading
-        link:
-
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Estudié ingeniería informática en la Universidad Politécnica de Madrid y he desarrollado software durante casi 15 años. 
+
+      Aunque he probado varios perfiles dentro del mundo de la informática (técnicos y de gestión) en distintas áreas (bases de datos, microservicios, servicios web, análisis funcional...) casi siempre me he movido en el mundo backend porque me siento cómoda trabajando entre datos y resolviendo problemas lógicos - siempre me encantaron los sudokus! :)
+
+      Estoy acostumbrada a trabajar en equipo y he trabajo con equipos multidisciplinares e incluso internacionales. Creo que la diversidad aporta mucho valor al equipo y he aprendido mucho de este tipo de proyectos.
+
+      En mi vida laboral busco un trabajo en el que nunca deje de aprender y "no me acomode", con flexibilidad horaria, teletrabajo ocasional y que fomente el trabajo en equipo y el buen ambiente laboral.
 education:
     - degree: Degree on Computer Science 
       university: University Politécnica of Madrid

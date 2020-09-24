@@ -116,29 +116,47 @@ experiences:
 projects:
     title: Proyectos
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Proyectos en los que he participado a lo largo de mi carrera profesional.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Loycus
+        #link: "#hook"
+        tagline: "Loycus es un producto multiplataforma (web, apps) en el que, como parte del equipo de backend, participo en el desarrollo de los distintos microservicios
+        que hemos (y seguimos) diseñando. Desarrollamos los distintos servicios a consumir por los frontales, así como la comunicación interna entre los distintos microservicios y 
+        otros proveedores externos (Firebase, ElasticSearch, Cloudinary, Pub/Sub...) utilizando distintos sistemas tales como servicios REST o mensajería de colas. Actualmente contamos 
+        con microservicios desarrollados en Java, Kotlin y Python, con bases de datos relacionales (MySql), no relacionales (MongoDB) y orientadas a grafos (Neo4j). Utilizamos integración 
+        continua e intentamos seguir una filosofía agile de trabajo."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: Visionarity | Healthi | TopPharm
+        #link: "#"
+        tagline: "Grupo de productos pertenecientes a Visionarity. Como parte del equipo de backend, desarrollábamos las soluciones necesarias para las peticiones del equipo de diseño."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: Dongle Microservice System (BMW)
+        #link: "#"
+        tagline: "DMS era un microservicio a integrarse en el flujo de servicios a los coches de BMW. En el caso de DMS se ocupaba de conectar, activar y registrar en los servicios de BMW 
+        los dispositivos dongle para aquellos vehículos que no contaban con conexión a Internet propia. Parte de mis funciones eran la coordinación y gestión de un equipo de 4 desarrolladores,
+        combinado con tareas de desarrollo. La comunicación con el cliente era siempre en inglés."
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: BIP Connected Drive (BMW)
+        # link: "#"
+        tagline: "BIP Connected Drive era un producto interno de BMW que utilizaban para registrar coches nuevos, conocer todas sus prestaciones y asignar (si el dueño del coche no podía hacerlo
+        en la web de cliente) servicios online al mismo (GPS, Spotify, llamadas de emergencia, etc), entre otras cosas. Durante mi andadura en este proyecto, como team lead del equipo de desarrollo,
+        me ocupaba de coordinar y gestionar a un equipo de hasta 8 personas localizadas en distintos países europeos (España, Portugal, Alemania...), así como de llevar a cabo tareas de desarrollo
+        y soporte técnico al equipo de diseño. Al ser un equipo multilocalizado, la comunicación diaria era en inglés."
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: SICOSS Pros@
+        #link: "#"
+        tagline: "SICOSS Pros@ es el sistema que gestiona la contabilidad de la Seguridad Social. Durante mis años formando parte de este equipo, fui pasando por diversos roles, desde desarrolladora
+        hasta analista funcional. Mis tareas se centraron en el análisis y desarrollo del módulo de Pagos Telemáticos a terceros, llegando a coordinar equipos de hasta 3 personas. Durante mi etapa
+        como analista funcional, además también me reunía con el cliente para realizar la toma de requisitos, además, en muchas ocasiones también me ocupaba de detectar necesidades del cliente para 
+        ofrecerles el nuevo desarrollo."
+
+      - title: Gestión del 012 y Servicio de Atención al Ciudadano para el Ayuntamiento de Pozuelo de Alarcón
+        tagline: "Desarrollo con Struts de la web de Gestión del 012 y Servicio de Atención al Ciudadano para el Ayuntamiento de Pozuelo de Alarcón"
+
+      - title: ESTELA - Bibliometro (I.A.M.)
+        tagline: "ESTELA era el servicio de gestión de las bibliotecas municipales de la ciudad de Madrid, el cuál incluía el módulo de Bibliometro, que se ocupaba de gestionar los cajeros 
+        de Bibliometro existentes en algunas estaciones de la red de metro de Madrid. Durante mi paso por este proyecto, me ocupé del desarrollo de los módulos de Circulación y Préstamo, Lectores,
+        Bibliometro y Explotación."
 
 #publications:
 #    title: Publications
@@ -167,7 +185,7 @@ skills:
 
     toolset:
       - name: Python & Django
-        level: 98%
+        #level: 98%
 
       - name: Javascript & jQuery
         level: 98%
@@ -184,5 +202,5 @@ skills:
       - name: Sketch & Photoshop
         level: 60%
 
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+# footer: >
+#    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>

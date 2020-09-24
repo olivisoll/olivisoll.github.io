@@ -19,17 +19,18 @@ sidebar:
     telegram: # add your nickname without '@' sign
     
     languages:
-      - idiom: English
-        level: Fluent
+      title: Idiomas
+      - idiom: Inglés
+        level: Fluido
 
-      - idiom: French
-        level: Basic
+      - idiom: Francés
+        level: Básico
 
-      - idiom: Spanish
-        level: Native
+      - idiom: Español
+        level: Nativo
 
 career-profile:
-    title: Career Profile
+    title: Perfil profesional
     summary: |
       Estudié ingeniería informática en la Universidad Politécnica de Madrid y he desarrollado software durante casi 15 años. 
 
@@ -105,7 +106,7 @@ experiences:
       time: Septiembre 2006 - Septiembre 2008
       company: Bee Solutions
       details: |
-        Desarrollo de nuevas peticiones solicitadas por cliente.
+        Desarrollo de nuevas peticiones solicitadas por cliente en diversos proyectos.
 
 projects:
     title: Projects

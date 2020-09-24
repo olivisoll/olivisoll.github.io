@@ -19,7 +19,7 @@ sidebar:
     telegram: # add your nickname without '@' sign
     
     languages:
-      title: Idiomas
+      #title: Idiomas
       - idiom: Inglés
         level: Fluido
 
@@ -43,8 +43,9 @@ career-profile:
       En mi vida laboral busco un trabajo en el que nunca deje de aprender y "no me acomode", con flexibilidad horaria, teletrabajo ocasional y que fomente el trabajo en equipo 
       y el buen ambiente laboral.
 education:
-    - degree: Degree on Computer Science 
-      university: University Politécnica of Madrid
+    #title: Educación
+    - degree: Ingeniería Técnica Informática de Gestión 
+      university: Universidad Politécnica de Madrid
       # time: 2011 - 2012
       # details: |
       #  Describe your study here lorem ipsum dolor sit amet, consectetuer

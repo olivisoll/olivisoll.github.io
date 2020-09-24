@@ -33,11 +33,14 @@ career-profile:
     summary: |
       Estudié ingeniería informática en la Universidad Politécnica de Madrid y he desarrollado software durante casi 15 años. 
 
-      Aunque he probado varios perfiles dentro del mundo de la informática (técnicos y de gestión) en distintas áreas (bases de datos, microservicios, servicios web, análisis funcional...) casi siempre me he movido en el mundo backend porque me siento cómoda trabajando entre datos y resolviendo problemas lógicos - siempre me encantaron los sudokus! :)
+      Aunque he probado varios perfiles dentro del mundo de la informática (técnicos y de gestión) en distintas áreas (bases de datos, microservicios, servicios web, análisis funcional...) 
+      casi siempre me he movido en el mundo backend porque me siento cómoda trabajando entre datos y resolviendo problemas lógicos.
 
-      Estoy acostumbrada a trabajar en equipo y he trabajo con equipos multidisciplinares e incluso internacionales. Creo que la diversidad aporta mucho valor al equipo y he aprendido mucho de este tipo de proyectos.
+      Estoy acostumbrada a trabajar en equipo y he trabajo con equipos multidisciplinares e incluso internacionales. Creo que la diversidad aporta mucho valor al equipo y he aprendido 
+      mucho de este tipo de proyectos.
 
-      En mi vida laboral busco un trabajo en el que nunca deje de aprender y "no me acomode", con flexibilidad horaria, teletrabajo ocasional y que fomente el trabajo en equipo y el buen ambiente laboral.
+      En mi vida laboral busco un trabajo en el que nunca deje de aprender y "no me acomode", con flexibilidad horaria, teletrabajo ocasional y que fomente el trabajo en equipo 
+      y el buen ambiente laboral.
 education:
     - degree: Degree on Computer Science 
       university: University Politécnica of Madrid
@@ -63,24 +66,47 @@ education:
     #      - Bullet point
 experiences:
     - role: Senior Backend Developer
-      time: 2019 - Present
+      time: Julio 2019 - Actualidad
       company: Loycus
       details: |
-        New developments in a multidisciplinary team, using several programming languages (Java, Python, Kotlin) 
-        and databases as relational as non relational.
+        Desarrollo desde cero del producto Loycus en un equipo multidisciplinar. Como integrante del equipo de backend, además de llevar a cabo el desarrollo del producto, una de nuestras labores
+        ha sido diseñar los distintos microservicios a integrar en el nuevo producto, decidiendo qué base de datos era la más adecuada en cada caso (relacional, no relacional, orientada a grafos, etc) 
+        así como el lenguaje de programación a utilizar en cada uno.
     - role: Senior Backend Developer
-      time: 2019
+      time: Enero 2019 - Julio 2019
       company: Visionarity
       details: |
-        New developments for the products owned by Visionarity. Definition and development of the new requirements. 
-        Using English as working language.
+        Visionarity era una startup suiza con varios productos en propiedad. Como integrante del equipo de backend, mi labor consistía en diseñar y desarrollar las nuevas peticiones de mejora
+        y de nuevas funcionalidades e integrarlas en los distintos productos.
     - role: Senior Backend Developer - Team Lead
-      time: 2018 - 2019
+      time: Junio 2015 - Enero 2019
       company: T-Systems Iberia
       details: |
-        Dongle Microservice System (BMW). Leading developing team (4 members), coordination and management of the team, 
-        combined with developing tasks. Being all the communications with the client in English (as via e-mail as 
-        teleconferences). 
+        Participación en varios proyectos internacionales para BMW, en equipos distribuidos por varios países europeos. Como team lead, entre otras cosas, me ocupaba de analizar las nuevas 
+        peticiones, dar soporte técnico al equipo de diseño y producto de cara a las nuevas peticiones, repartir tareas entre el equipo de desarrollo, reportar a los jefes de sección y por 
+        supuesto, desarrollar :).
+    - role: Analista Funcional
+      time: Junio 2013 - Junio 2015
+      company: Adecco IT
+      details: |
+        Como analista funcional, algunas de mis tareas consistían en la toma de requisitos a través de reuniones con el cliente, el diseño y documentación de nuevos desarrollos en UML o 
+        el diseño de planes de pruebas para cada petición nueva de desarrollo. 
+    - role: Analista Programador
+      time: Diciembre 2010 - Junio 2013
+      company: Adecco IT
+      details: |
+        Análisis y desarrollo de nuevas peticiones.
+    - role: Analista Programador
+      time: Septiembre 2008 - Diciembre 2010
+      company: Bee Solutions
+      details: |
+        Análisis y desarrollo de nuevas peticiones solicitadas por cliente.
+    - role: Programador
+      time: Septiembre 2006 - Septiembre 2008
+      company: Bee Solutions
+      details: |
+        Desarrollo de nuevas peticiones solicitadas por cliente.
+
 projects:
     title: Projects
     intro: >
@@ -108,27 +134,27 @@ projects:
         link: "#"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+#publications:
+#    title: Publications
+#    intro: |
+#      You can list your publications in this section. Lorem ipsum dolor sit
+#      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+#      bibendum fringilla a eu lectus.
+#    papers:
+#      - title: The Art of Computer Programming
+#        link: "#"
+#        authors: Donald E. Knuth
+#        conference: Addison-Wesley, 1968
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+#      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+#        link: "#"
+#        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+#        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+#      - title: A syntax directed compiler for Algol 60
+#        link: "#"
+#        authors: Edgar T. Irons
+#        conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency

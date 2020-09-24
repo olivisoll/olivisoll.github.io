@@ -31,7 +31,7 @@ sidebar:
 
 career-profile:
     title: Perfil profesional
-    summary: |
+    summary:
       Estudié ingeniería informática en la Universidad Politécnica de Madrid y he desarrollado software durante casi 15 años. 
 
       Aunque he probado varios perfiles dentro del mundo de la informática (técnicos y de gestión) en distintas áreas (bases de datos, microservicios, servicios web, análisis funcional...) 
@@ -43,29 +43,30 @@ career-profile:
       En mi vida laboral busco un trabajo en el que nunca deje de aprender y "no me acomode", con flexibilidad horaria, teletrabajo ocasional y que fomente el trabajo en equipo 
       y el buen ambiente laboral.
 education:
-    # title: Educación
-    - degree: Ingeniería Informática de Gestión 
-      university: Universidad Politécnica de Madrid
-      # time: 2011 - 2012
-      # details: |
-      #  Describe your study here lorem ipsum dolor sit amet, consectetuer
-      #  adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      #  sociis natoque penatibus et magnis dis parturient montes, nascetur
-      #  ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      #  pretium quis, sem.
-      #    - Bullet point
-      #    - Bullet point
-    #- degree: BSc in Applied Mathematics
-    #  university: Bristol University
-    #  time: 2007 - 2011
-    #  details: |
-    #    Describe your study here lorem ipsum dolor sit amet, consectetuer
-    #    adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-    #    sociis natoque penatibus et magnis dis parturient montes, nascetur
-    #    ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-    #    pretium quis, sem.
-    #      - Bullet point
-    #      - Bullet point
+    title: Educación
+    graduations: 
+        - degree: Ingeniería Informática de Gestión 
+          university: Universidad Politécnica de Madrid
+          # time: 2011 - 2012
+          # details: |
+          #  Describe your study here lorem ipsum dolor sit amet, consectetuer
+          #  adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+          #  sociis natoque penatibus et magnis dis parturient montes, nascetur
+          #  ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+          #  pretium quis, sem.
+          #    - Bullet point
+          #    - Bullet point
+        #- degree: BSc in Applied Mathematics
+        #  university: Bristol University
+        #  time: 2007 - 2011
+        #  details: |
+        #    Describe your study here lorem ipsum dolor sit amet, consectetuer
+        #    adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+        #    sociis natoque penatibus et magnis dis parturient montes, nascetur
+        #    ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+        #    pretium quis, sem.
+        #      - Bullet point
+        #      - Bullet point
 experiences:
     - role: Senior Backend Developer
       time: Julio 2019 - Actualidad

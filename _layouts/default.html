@@ -10,11 +10,9 @@
 
 <body>
   <div class="wrapper">
-    {% if page.lang = "es" %}
-      {% include sidebar.html %}
-    {% else %}
-      {% include sidebar_en.html %}
-    {% endif %}
+    {{ page }}
+    
+    {% include sidebar.html %}
 
     <div class="main-wrapper">
         {{ content }}

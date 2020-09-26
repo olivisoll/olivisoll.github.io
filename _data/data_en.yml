@@ -44,14 +44,14 @@ career-profile:
       En mi vida laboral busco un trabajo en el que nunca deje de aprender y "no me acomode", con flexibilidad horaria, teletrabajo ocasional y que fomente el trabajo en equipo 
       y el buen ambiente laboral.
 education:
-    title: Educación
+    title: Education
     graduations: 
         - degree: Ingeniería Informática de Gestión 
-          university: Universidad Politécnica de Madrid
+          university: University Politécnica of Madrid
           # time: 2011 - 2012
           # details: |
 experiences:
-    title: Experiencia profesional
+    title: Experiences
     roles:
       - role: Senior Backend Developer
         time: Julio 2019 - Actualidad

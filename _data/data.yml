@@ -127,11 +127,12 @@ projects:
 
       - title: SICOSS Pros@
         #link: "#"
-        tagline: "SICOSS Pros@ es el sistema que gestiona la contabilidad de la Seguridad Social. 
+        tagline: |
+        "SICOSS Pros@ es el sistema que gestiona la contabilidad de la Seguridad Social. 
         Durante mis años formando parte de este equipo, fui pasando por diversos roles, desde desarrolladora
         hasta analista funcional. 
         Mis tareas se centraron en el análisis y desarrollo del módulo de Pagos Telemáticos a terceros, llegando a coordinar equipos de hasta 3 personas. 
-        Durante mi etapa como analista funcional, además también me reunía con el cliente para realizar la toma de requisitos, y, en muchas ocasiones, >
+        Durante mi etapa como analista funcional, además también me reunía con el cliente para realizar la toma de requisitos, y, en muchas ocasiones, 
         también me ocupaba de detectar necesidades del cliente para 
         ofrecerles el nuevo desarrollo."
 

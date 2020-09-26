@@ -1,7 +1,7 @@
 #
 # Be aware that even a small syntax error here can lead to failures in output.
 #
-lang: es
+lang: en
 sidebar:
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
@@ -19,7 +19,7 @@ sidebar:
     telegram: # add your nickname without '@' sign
     
     languages:
-      title: Idiomas
+      title: Languages
       idioms:
         - idiom: Inglés
           level: Fluido

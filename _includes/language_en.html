@@ -4,12 +4,13 @@ hola {{ languages }}
 <div class="languages-container container-block">
 
   <h2 class="container-block-title">
-    {{ languages.title}}
+    {{ languages.title }}
   </h2>
 
   <ul class="list-unstyled interests-list">
     {%for language in languages.idioms %}
     <li>
+    hey
       {{ language.idiom }}
       <span class="lang-desc">({{ language.level }})</span>
     </li>

@@ -27,7 +27,7 @@
       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
 
-  {{ page.lang }}
+  {{ page }}
  <!--{% assign posts=site.posts | where:"ref", page.ref | where_exp: "post", "post.lang != page.lang" | sort: 'lang' %}
   {% for post in posts %}
     <link rel="alternate" hreflang="{{ post.lang }}" href="{{ post.url | prepend: site.url }}" />

@@ -28,14 +28,5 @@
     <![endif]-->
   
   <a href="index.html">ES</a> | <a href="indice.html">EN</a>
-  <!--{% assign posts=site.posts | where:"ref", page.ref | where_exp: "post", "post.lang != page.lang" | sort: 'lang' %}
-  {% for post in posts %}
-    <link rel="alternate" hreflang="{{ post.lang }}" href="{{ post.url | prepend: site.url }}" />
-  {% endfor %}
-
-  {% assign pages=site.pages | where:"ref", page.ref | where_exp: "translated-page", "translated-page.lang != page.lang" | sort: 'lang' %}
-  {% for translated-page in pages %}
-    <link rel="alternate" hreflang="{{ translated-page.lang }}" href="{{ translated-page.url | prepend: site.url }}" />
-  {% endfor %}-->
 
 </head>

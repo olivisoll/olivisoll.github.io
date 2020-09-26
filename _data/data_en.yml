@@ -21,17 +21,17 @@ sidebar:
     languages:
       title: Languages
       idioms:
-        - idiom: Inglés
-          level: Fluido
+        - idiom: English
+          level: Fluent
 
-        - idiom: Francés
-          level: Básico
+        - idiom: French
+          level: Basic
 
-        - idiom: Español
-          level: Nativo
+        - idiom: Spanish
+          level: Native
 
 career-profile:
-    title: Perfil profesional
+    title: Career Profile
     summary: |
       Estudié ingeniería informática en la Universidad Politécnica de Madrid y he desarrollado software durante casi 15 años.
 

@@ -1,0 +1,20 @@
+---
+layout: default
+lang: en
+ref: 1
+---
+
+Hello
+{% include career-profile_en.html %}
+
+{% unless site.data.data_en.sidebar.education %}
+  {% include education_en.html %}
+{% endunless %}
+
+{% include experiences_en.html %}
+
+{% include projects_en.html %}
+
+{% include publications_en.html %}
+
+{% include skills_en.html %}

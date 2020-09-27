@@ -33,20 +33,22 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Estudié ingeniería informática en la Universidad Politécnica de Madrid y he desarrollado software durante casi 15 años.
+      I studied a Degree on Computer Science in the University Politécnica of Madrid and I have been developing software
+      during almost 15 years now.
 
-      Aunque he probado varios perfiles dentro del mundo de la informática (técnicos y de gestión) en distintas áreas (bases de datos, microservicios, servicios web, análisis funcional...) 
-      casi siempre me he movido en el mundo backend porque me siento cómoda trabajando entre datos y resolviendo problemas lógicos.
+      Although I have tried several kind of profiles in the computing world (both technical and managerial), in different
+      areas (databases, microservices, web services, functional/business analysis...), I have almost always been in the backend
+      world because of I feel comfortable working between data and resolving logic problems.
 
-      Estoy acostumbrada a trabajar en equipo y he trabajo con equipos multidisciplinares e incluso internacionales. Creo que la diversidad aporta mucho valor al equipo y he aprendido 
-      mucho de este tipo de proyectos.
+      I am used to the teamwork and I have worked in multidisciplinar teams, even international ones. I believe diversity brings
+      a high value to the team and I have learnt a lot of these kind of projects.
 
-      En mi vida laboral busco un trabajo en el que nunca deje de aprender y "no me acomode", con flexibilidad horaria, teletrabajo ocasional y que fomente el trabajo en equipo 
-      y el buen ambiente laboral.
+      For my work life, I am looking for a job where I never stop learning and "don't settle in", with flexible hours,
+      occasional remote work and that encourages teamwork and a good work environment.
 education:
     title: Education
     graduations: 
-        - degree: Ingeniería Informática de Gestión 
+        - degree: Degree on Computer Science
           university: University Politécnica of Madrid
           # time: 2011 - 2012
           # details: |
@@ -54,94 +56,93 @@ experiences:
     title: Experiences
     roles:
       - role: Senior Backend Developer
-        time: Julio 2019 - Actualidad
+        time: July 2019 - Present
         company: Loycus
        # details: |
        #   Desarrollo desde cero del producto Loycus en un equipo multidisciplinar. Como integrante del equipo de backend, además de llevar a cabo el desarrollo del producto, una de nuestras labores
        #   ha sido diseñar los distintos microservicios a integrar en el nuevo producto, decidiendo qué base de datos era la más adecuada en cada caso (relacional, no relacional, orientada a grafos, etc) 
        #   así como el lenguaje de programación a utilizar en cada uno.
       - role: Senior Backend Developer
-        time: Enero 2019 - Julio 2019
+        time: January 2019 - July 2019
         company: Visionarity
        # details: |
        #   Visionarity era una startup suiza con varios productos en propiedad. Como integrante del equipo de backend, mi labor consistía en diseñar y desarrollar las nuevas peticiones de mejora
        #   y de nuevas funcionalidades e integrarlas en los distintos productos.
       - role: Senior Backend Developer - Team Lead
-        time: Junio 2015 - Enero 2019
+        time: June 2015 - January 2019
         company: T-Systems Iberia
        # details: |
        #   Participación en varios proyectos internacionales para BMW, en equipos distribuidos por varios países europeos. Como team lead, entre otras cosas, me ocupaba de analizar las nuevas 
        #   peticiones, dar soporte técnico al equipo de diseño y producto de cara a las nuevas peticiones, repartir tareas entre el equipo de desarrollo, reportar a los jefes de sección y por 
        #   supuesto, desarrollar :).
-      - role: Analista Funcional
-        time: Junio 2013 - Junio 2015
+      - role: Business Analyst
+        time: June 2013 - June 2015
         company: Adecco IT
        # details: |
        #   Como analista funcional, algunas de mis tareas consistían en la toma de requisitos a través de reuniones con el cliente, el diseño y documentación de nuevos desarrollos en UML o 
        #   el diseño de planes de pruebas para cada petición nueva de desarrollo. 
-      - role: Analista Programador
-        time: Diciembre 2010 - Junio 2013
+      - role: Analyst Programmer
+        time: December 2010 - June 2013
         company: Adecco IT
        # details: |
        #   Análisis y desarrollo de nuevas peticiones.
-      - role: Analista Programador
-        time: Septiembre 2008 - Diciembre 2010
+      - role: Analyst Programmer
+        time: September 2008 - December 2010
         company: Bee Solutions
       #  details: |
       #    Análisis y desarrollo de nuevas peticiones solicitadas por cliente.
-      - role: Programador
-        time: Septiembre 2006 - Septiembre 2008
+      - role: Developer
+        time: September 2006 - September 2008
         company: Bee Solutions
       #  details: |
       #    Desarrollo de nuevas peticiones solicitadas por cliente en diversos proyectos.
 
 projects:
-    title: Proyectos
+    title: Projects
     intro: >
-      Proyectos en los que he participado a lo largo de mi carrera profesional.
+      Below, you can find the projects in which I have worked in along my professional career.
     assignments:
       - title: Loycus
         #link: "#hook"
-        tagline: "Loycus es un producto multiplataforma (web, apps) en el que, como parte del equipo de backend, participo en el desarrollo de los distintos microservicios
-        que hemos (y seguimos) diseñando. Desarrollamos los distintos servicios a consumir por los frontales, así como la comunicación interna entre los distintos microservicios y 
-        otros proveedores externos (Firebase, ElasticSearch, Cloudinary, Pub/Sub...) utilizando distintos sistemas tales como servicios REST o mensajería de colas. Actualmente contamos 
-        con microservicios desarrollados en Java, Kotlin y Python, con bases de datos relacionales (MySql), no relacionales (MongoDB) y orientadas a grafos (Neo4j). Utilizamos integración 
-        continua e intentamos seguir una filosofía agile de trabajo."
+        tagline: "Loycus is a multiplatform product (web, apps) in which, as part of the backend team, I take part in the development of 
+        different microservices whom we have, and still do, designed. We develop those services to be consumed by the frontend, as well as 
+        the internal communication between our microservices and others external suppliers (Firebase, ElasticSearch, Cloudinary, Pub/Sub...),
+        using several methods such as REST services or queue messaging. Currently, we have microservices developed in several programming languages,
+        such as Java, Kotlin or Python, with relational databases (MySql), non relational (MongoDB) and graph-oriented (Neo4j). We use CI/CD and try
+        to apply an agile work philosophy."
 
       - title: Visionarity | Healthi | TopPharm
         #link: "#"
-        tagline: "Grupo de productos pertenecientes a Visionarity. Como parte del equipo de backend, desarrollábamos las soluciones necesarias para las peticiones del equipo de diseño."
-
+        tagline: "Group of products belonging to Visionarity. As part of the backend team, I developed those needed solutions to accomplish the 
+        requirements of the design team."
+        
       - title: Dongle Microservice System (BMW)
         #link: "#"
-        tagline: "DMS era un microservicio a integrarse en el flujo de servicios a los coches de BMW. En el caso de DMS se ocupaba de conectar, activar y registrar en los servicios de BMW 
-        los dispositivos dongle para aquellos vehículos que no contaban con conexión a Internet propia. Parte de mis funciones eran la coordinación y gestión de un equipo de 4 desarrolladores,
-        combinado con tareas de desarrollo. La comunicación con el cliente era siempre en inglés."
+        tagline: "DMS was a microservice to be integrated into the flow of services to BMW cars. In DMS case, its function was connect, activate and
+        register into BMW service the dongle devices for those vehicles without an own Internet connection. Some of my duties were the management and
+        coordination of a team of 4 developers, combined with developing tasks, being all the communications with the client in English."
 
       - title: BIP Connected Drive (BMW)
         # link: "#"
-        tagline: "BIP Connected Drive era un producto interno de BMW que utilizaban para registrar coches nuevos, conocer todas sus prestaciones y asignar (si el dueño del coche no podía hacerlo
-        en la web de cliente) servicios online al mismo (GPS, Spotify, llamadas de emergencia, etc), entre otras cosas. Durante mi andadura en este proyecto, como team lead del equipo de desarrollo,
-        me ocupaba de coordinar y gestionar a un equipo de hasta 8 personas localizadas en distintos países europeos (España, Portugal, Alemania...), así como de llevar a cabo tareas de desarrollo
-        y soporte técnico al equipo de diseño. Al ser un equipo multilocalizado, la comunicación diaria era en inglés."
+        tagline: "BIP Connected was an internal BMW product used to register new cars, know all their features and assign online services to them
+        (GPS, Spotify, emergency calls, etc), among other things. Along my path in this project, some of my functions were the coordination and management
+        of a team of up to 8 developers, located in several European countries (Spain, Portugal, Germany...), as well as developing tasks and 
+        technical support to the design team. Being a multi-location team, daily communication was in English."
 
       - title: SICOSS Pros@
         #link: "#"
-        tagline: "SICOSS Pros@ es el sistema que gestiona la contabilidad de la Seguridad Social. 
-        Durante mis años formando parte de este equipo, fui pasando por diversos roles, desde desarrolladora
-        hasta analista funcional. 
-        Mis tareas se centraron en el análisis y desarrollo del módulo de Pagos Telemáticos a terceros, llegando a coordinar equipos de hasta 3 personas. 
-        Durante mi etapa como analista funcional, además también me reunía con el cliente para realizar la toma de requisitos, y, en muchas ocasiones, 
-        también me ocupaba de detectar necesidades del cliente para 
-        ofrecerles el nuevo desarrollo."
+        tagline: "SICOSS Pros@ is the service which manage the accounting of the Spanish Social Security. During my years being part of this team, 
+        I went through various roles, from developer to functional/business analyst. My tasks were focused in the analysis and development of the Telematic
+        Payment Module, managing to coordinate teams of up to 3 people. Besides, during my time of business analyst, I used to meet with cliente to take
+        the new requirements and, on many times, I was also in charge of detecting new customer needs to offer them the new development."
 
-      - title: Gestión del 012 y Servicio de Atención al Ciudadano para el Ayuntamiento de Pozuelo de Alarcón
-        tagline: "Desarrollo con Struts de la web de Gestión del 012 y Servicio de Atención al Ciudadano para el Ayuntamiento de Pozuelo de Alarcón"
+      - title: 012 management and citizen service department for the Town of Pozuelo de Alarcón
+        tagline: "Development using Struts of the web of 012 management and citizen service department for the Town of Pozuelo de Alarcón."
 
       - title: ESTELA - Bibliometro (I.A.M.)
-        tagline: "ESTELA era el servicio de gestión de las bibliotecas municipales de la ciudad de Madrid, el cuál incluía el módulo de Bibliometro, que se ocupaba de gestionar los cajeros 
-        de Bibliometro existentes en algunas estaciones de la red de metro de Madrid. Durante mi paso por este proyecto, me ocupé del desarrollo de los módulos de Circulación y Préstamo, Lectores,
-        Bibliometro y Explotación."
+        tagline: "ESTELA was the management service of the municipal libraries of the city of Madrid, which included the Bibliometro module, which was in 
+        charge of managing the existing Bibliometro ATMs in some stations of the Madrid metro network. During my time through this project, I was in 
+        charge of the development of the Circulation and Loan, Readers, Bibliometro and Exploitation modules."
 
 #publications:
 #    title: Publications
@@ -166,7 +167,7 @@ projects:
 #        conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
-    title: Habilidades
+    title: Skills
 
     toolset:
       - name: Java & Spring

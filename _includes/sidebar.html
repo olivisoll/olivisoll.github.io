@@ -1,4 +1,8 @@
+{% if page.lang == 'es' %}
 {% assign sidebar = site.data.data.sidebar %}
+{% else %}
+{% assign sidebar = site.data.data_en.sidebar %}
+{% endif %}
 <div class="sidebar-wrapper">
 
   <div class="profile-container">

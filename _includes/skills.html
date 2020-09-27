@@ -1,4 +1,9 @@
+{% if page.lang == 'es' %}
 {% assign skills = site.data.data.skills %}
+{% else %}
+{% assign skills = site.data.data_en.skills %}
+{% endif %}
+
 {% if skills %}
 <section class="skills-section section">
 

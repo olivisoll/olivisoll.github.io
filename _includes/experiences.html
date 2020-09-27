@@ -1,4 +1,9 @@
+{% if page.lang == 'es' %}
 {% assign experiences = site.data.data.experiences %}
+{% else %}
+{% assign experiences = site.data.data_en.experiences %}
+{% endif %}
+
 {% if experiences %}
 <section class="section experiences-section">
   <h2 class="section-title">

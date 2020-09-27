@@ -53,7 +53,7 @@ education:
           # time: 2011 - 2012
           # details: |
 experiences:
-    title: Experiences
+    title: Work experience
     roles:
       - role: Senior Backend Developer
         time: July 2019 - Present
